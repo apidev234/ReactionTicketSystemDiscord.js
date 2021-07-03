@@ -10,7 +10,7 @@ The Easiest Ticket Reaction System With Discord.js You Can Ever Get
 
 ## Self-Hosting 
 Replit: [![Use on Repl.it](https://repl.it/badge/github/ShinchanPlayZ/AdvancedWelcomer)](https://replit.com/github/apidev234/ReactionTicketSystemDiscord.js)
-Glitch: https://camo.githubusercontent.com/e76f4a9faaaf9f2eb277d34f4f290a5828d7beacdbcb169894fa6418db96da00/68747470733a2f2f63646e2e676c697463682e636f6d2f32373033626166322d623634332d346461372d616239312d37656532613264303062356225324672656d69782d627574746f6e2e737667(https://glitch.com/edit/#!/import/github/apidev234/ReactionTicketSystemDiscord.js)
+Glitch: [https://media.discordapp.net/attachments/762700545906442251/860863803495153694/download.png?width=229&height=178](https://glitch.com/edit/#!/import/github/apidev234/ReactionTicketSystemDiscord.js)
 
 ## How-To-Host 
 
