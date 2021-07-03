@@ -10,7 +10,7 @@ The Easiest Ticket Reaction System With Discord.js You Can Ever Get
 
 ## Self-Hosting 
 - Replit: [![Use on Repl.it](https://repl.it/badge/github/ShinchanPlayZ/AdvancedWelcomer)](https://replit.com/github/apidev234/ReactionTicketSystemDiscord.js)
-- Glitch: [Click Here](https://glitch.com/edit/#!/import/github/apidev234/ReactionTicketSystemDiscord.js)
+- Glitch: [![Glitch](https://user-images.githubusercontent.com/78847111/124354737-16d9a980-dc2b-11eb-812d-6c4bd39f13ce.png)](https://glitch.com/edit/#!/import/github/apidev234/ReactionTicketSystemDiscord.js)
 
 ## How-To-Host 
 
@@ -24,4 +24,4 @@ The Easiest Ticket Reaction System With Discord.js You Can Ever Get
 
 # Further Support 
 - Dm Me on Discord ` Shinchan#2196 `
-<iframe src="https://discord.com/widget?id=842686904624611348&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+
