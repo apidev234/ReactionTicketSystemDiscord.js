@@ -24,4 +24,4 @@ The Easiest Ticket Reaction System With Discord.js You Can Ever Get
 
 # Further Support 
 - Dm Me on Discord ` Shinchan#2196 `
-- <iframe src="https://discord.com/widget?id=842686904624611348&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+<iframe src="https://discord.com/widget?id=842686904624611348&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
