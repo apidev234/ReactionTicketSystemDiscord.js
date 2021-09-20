@@ -105,4 +105,4 @@ let icon = reaction.message.guild.iconURL()
     }})
 
 
-    client.login("ODMwMDk3NTAxNzA4ODc3ODk1.YHBuig.MDQ7DPvtH05Fz4y1iGP-iBOfg7I")
+    client.login("")
