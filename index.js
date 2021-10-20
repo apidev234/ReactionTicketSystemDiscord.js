@@ -1,6 +1,6 @@
 const Discord = require('discord.js');
 const { Database } = require("quickmongo");
-const db = new Database("mongodb+srv://Shinchanop:mH2QtN4joxFJ6d2U@krezy.f8gzk.mongodb.net/test");
+const db = new Database("DB_LINK_HERE");
 const client = new Discord.Client({ partials: ['MESSAGE', 'CHANNEL', 'REACTION'] });
 const prefix = "$"
 
